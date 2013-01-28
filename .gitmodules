@@ -1,0 +1,27 @@
+[submodule "Compiler"]
+	path = Compiler
+	url = git://github.com/erik-kallen/SaltarelleCompiler.git
+[submodule "Linq"]
+	path = Linq
+	url = git://github.com/erik-kallen/SaltarelleLinq.git
+[submodule "QUnit"]
+	path = QUnit
+	url = git://github.com/erik-kallen/SaltarelleQUnit.git
+[submodule "Knockout"]
+	path = Knockout
+	url = git://github.com/erik-kallen/SaltarelleKnockout.git
+[submodule "Web"]
+	path = Web
+	url = git://github.com/erik-kallen/SaltarelleWeb.git
+[submodule "Loader"]
+	path = Loader
+	url = git://github.com/erik-kallen/SaltarelleLoader.git
+[submodule "jQueryUI"]
+	path = jQueryUI
+	url = git://github.com/erik-kallen/SaltarelleJQueryUI.git
+[submodule "jQuery"]
+	path = jQuery
+	url = git://github.com/erik-kallen/SaltarelleJQuery.git
+[submodule "NodeJS"]
+	path = NodeJS
+	url = git://github.com/erik-kallen/SaltarelleNodeJS.git
